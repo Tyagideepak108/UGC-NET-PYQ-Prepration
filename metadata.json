@@ -1,0 +1,6 @@
+{
+  "name": "UGC NET CSE PrepMaster - Interactive PYQ Bank",
+  "description": "Comprehensive interactive UGC NET Computer Science Previous Year Questions (PYQs) platform with topic-wise and chapter-wise filtering, instant answer checking, green/red highlights, detailed solutions, and mock test modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
